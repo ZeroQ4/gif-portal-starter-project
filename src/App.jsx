@@ -1,7 +1,3 @@
-import { Connection, PublicKey, clusterApiUrl } from '@solana/web3.js';
-import { Program, Provider, web3 } from '@project-serum/anchor';
-
-
 const TEST_GIFS = [
 	'https://i.giphy.com/media/eIG0HfouRQJQr1wBzz/giphy.webp',
 	'https://media3.giphy.com/media/L71a8LW2UrKwPaWNYM/giphy.gif?cid=ecf05e47rr9qizx2msjucl1xyvuu47d7kf25tqt2lvo024uo&rid=giphy.gif&ct=g',
